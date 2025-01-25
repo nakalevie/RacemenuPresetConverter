@@ -93,7 +93,7 @@
     <None Include="packages.config" />
     <None Include="batch convert.bat" />
     <None Include="RacemenuPresetConverter_TemporaryKey.pfx" />
-    <None Include="start.bat" />
+    <None Include="single convert.bat" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">
