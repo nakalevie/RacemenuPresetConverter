@@ -22,7 +22,7 @@ namespace RacemenuPresetConverter
                 {
                     diffWeights = args[1].ToLower() == "yes";
                 }
-                if (args.Count() > 1)
+                if (args.Count() > 2)
                 {
                     float.TryParse(args[2].Replace(".", ","), out divider);
                     if (divider == 0)
